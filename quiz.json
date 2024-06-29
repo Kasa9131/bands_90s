@@ -1,0 +1,194 @@
+{
+	"shortDescription": "Test your knowledge of 90s bands with this quiz.",
+	"questions": [
+		{
+			"question": "Which band released the album 'Nevermind' in 1991?",
+			"answers": [
+				"Nirvana",
+				"Pearl Jam",
+				"Smashing Pumpkins"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who fronted the band 'Oasis'?",
+			"answers": [
+				"Liam Gallagher",
+				"Noel Gallagher",
+				"Chris Martin"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band's hit song 'Under the Bridge' became iconic in the 90s?",
+			"answers": [
+				"Red Hot Chili Peppers",
+				"Green Day",
+				"Radiohead"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band released the album 'OK Computer' in 1997?",
+			"answers": [
+				"Radiohead",
+				"Blur",
+				"The Verve"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the lead singer of 'The Smashing Pumpkins'?",
+			"answers": [
+				"Billy Corgan",
+				"Eddie Vedder",
+				"Thom Yorke"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band's hit 'Zombie' gained massive popularity in the mid-90s?",
+			"answers": [
+				"The Cranberries",
+				"Soundgarden",
+				"Alice in Chains"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the guitarist of 'Blur'?",
+			"answers": [
+				"Graham Coxon",
+				"Johnny Greenwood",
+				"Jonny Buckland"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band had the lead singer Kurt Cobain?",
+			"answers": [
+				"Nirvana",
+				"Alice in Chains",
+				"Pearl Jam"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who released the album 'Dookie' in 1994?",
+			"answers": [
+				"Green Day",
+				"Weezer",
+				"Beck"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band's hit song 'Loser' gained popularity in 1994?",
+			"answers": [
+				"Beck",
+				"The Offspring",
+				"Stone Temple Pilots"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the lead vocalist of 'No Doubt'?",
+			"answers": [
+				"Gwen Stefani",
+				"Alanis Morissette",
+				"Shirley Manson"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band released the album 'Ten' in 1991?",
+			"answers": [
+				"Pearl Jam",
+				"Smashing Pumpkins",
+				"R.E.M."
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the lead singer of 'R.E.M.'?",
+			"answers": [
+				"Michael Stipe",
+				"Chris Cornell",
+				"Eddie Vedder"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band's hit 'Jeremy' was released in 1992?",
+			"answers": [
+				"Pearl Jam",
+				"Smashing Pumpkins",
+				"Stone Temple Pilots"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the lead vocalist of 'Bush'?",
+			"answers": [
+				"Gavin Rossdale",
+				"Scott Weiland",
+				"Billy Corgan"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band's album 'Mellon Collie and the Infinite Sadness' was released in 1995?",
+			"answers": [
+				"Smashing Pumpkins",
+				"Nirvana",
+				"Pearl Jam"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the lead singer of 'Stone Temple Pilots'?",
+			"answers": [
+				"Scott Weiland",
+				"Kurt Cobain",
+				"Eddie Vedder"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band's hit song 'Creep' gained attention in the early 90s?",
+			"answers": [
+				"Radiohead",
+				"The Smashing Pumpkins",
+				"Oasis"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the lead vocalist of 'Radiohead'?",
+			"answers": [
+				"Thom Yorke",
+				"Chris Martin",
+				"Damon Albarn"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Which band released the album 'Siamese Dream' in 1993?",
+			"answers": [
+				"The Smashing Pumpkins",
+				"Nirvana",
+				"Pearl Jam"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "Who was the lead singer of 'Soundgarden'?",
+			"answers": [
+				"Chris Cornell",
+				"Eddie Vedder",
+				"Kurt Cobain"
+			],
+			"correctAnswerIndex": 0
+		}
+	]
+}
