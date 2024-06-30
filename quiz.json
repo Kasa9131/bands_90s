@@ -29,7 +29,7 @@
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Which band released the album 'OK Computer' in 1997?",
+			"question": "Which band released the album 'OK Computer'?",
 			"answers": [
 				"Radiohead",
 				"Blur",
@@ -58,9 +58,9 @@
 		{
 			"question": "Who was the guitarist of 'Blur'?",
 			"answers": [
-				"Graham Coxon",
-				"Johnny Greenwood",
-				"Jonny Buckland"
+				"G. Coxon",
+				"J. Greenwood",
+				"J. Buckland"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -94,9 +94,9 @@
 		{
 			"question": "Who was the lead vocalist of 'No Doubt'?",
 			"answers": [
-				"Gwen Stefani",
-				"Alanis Morissette",
-				"Shirley Manson"
+				"G. Stefani",
+				"A. Morissette",
+				"S. Manson"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -104,7 +104,7 @@
 			"question": "Which band released the album 'Ten' in 1991?",
 			"answers": [
 				"Pearl Jam",
-				"Smashing Pumpkins",
+				"Nirvana",
 				"R.E.M."
 			],
 			"correctAnswerIndex": 0
@@ -112,9 +112,9 @@
 		{
 			"question": "Who was the lead singer of 'R.E.M.'?",
 			"answers": [
-				"Michael Stipe",
-				"Chris Cornell",
-				"Eddie Vedder"
+				"M. Stipe",
+				"C. Cornell",
+				"E. Vedder"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -122,7 +122,7 @@
 			"question": "Which band's hit 'Jeremy' was released in 1992?",
 			"answers": [
 				"Pearl Jam",
-				"Smashing Pumpkins",
+				"S. Pumpkins",
 				"Stone Temple Pilots"
 			],
 			"correctAnswerIndex": 0
@@ -130,9 +130,9 @@
 		{
 			"question": "Who was the lead vocalist of 'Bush'?",
 			"answers": [
-				"Gavin Rossdale",
-				"Scott Weiland",
-				"Billy Corgan"
+				"G. Rossdale",
+				"S. Weiland",
+				"B. Corgan"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -148,9 +148,9 @@
 		{
 			"question": "Who was the lead singer of 'Stone Temple Pilots'?",
 			"answers": [
-				"Scott Weiland",
-				"Kurt Cobain",
-				"Eddie Vedder"
+				"S. Weiland",
+				"K. Cobain",
+				"E. Vedder"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -166,9 +166,9 @@
 		{
 			"question": "Who was the lead vocalist of 'Radiohead'?",
 			"answers": [
-				"Thom Yorke",
-				"Chris Martin",
-				"Damon Albarn"
+				"T. Yorke",
+				"C. Martin",
+				"D. Albarn"
 			],
 			"correctAnswerIndex": 0
 		},
