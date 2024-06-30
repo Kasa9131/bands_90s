@@ -23,7 +23,7 @@ export const app = new Frog({
 app.frame('/', async c => {
   const { appTitle } = await configureApp(app, c, 'appAuthUrl')
 
-  const intents = [<Button action="/next">⭐ Start</Button>]
+  const intents = [<Button action="/next">🎸 Start</Button>]
 
   return c.res({
     title: appTitle,
@@ -105,10 +105,10 @@ app.frame('/result', async c => {
 
   if (!isWin) {
     // if user authorized navigate to answers, if not direct to authorize
-    intents.push(<Button action={userDelegatedAddress ? '/answers' : '/authorize'}>🙋 Answers</Button>)
+   // intents.push(<Button action={userDelegatedAddress ? '/answers' : '/authorize'}>🙋 Answers</Button>)
   }
 
-  intents.push(<Button.Link href="https://hack.dappykit.org/?source=quiz-template">🔴 Win Tokens</Button.Link>)
+  intents.push(<Button.Link href="https://warpcast.com/spirosdpsycho">❤️ Support me</Button.Link>)
 
   return c.res({
     title: appTitle,
