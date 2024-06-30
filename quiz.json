@@ -1,28 +1,28 @@
 {
-	"shortDescription": "Test your knowledge of 90s bands with this quiz.",
+	"shortDescription": "How well do you know 90s bands?",
 	"questions": [
 		{
-			"question": "Which band released the album 'Nevermind' in 1991?",
+			"question": "Which band sang 'Wonderwall'?",
 			"answers": [
-				"Nirvana",
-				"Pearl Jam",
-				"Smashing Pumpkins"
+				"Oasis",
+				"Blur",
+				"Nirvana"
 			],
 			"correctAnswerIndex": 0
 		},
 		{
 			"question": "Who fronted the band 'Oasis'?",
 			"answers": [
-				"Liam Gallagher",
-				"Noel Gallagher",
-				"Chris Martin"
+				"L. Gallagher",
+				"N. Gallagher",
+				"C. Martin"
 			],
 			"correctAnswerIndex": 0
 		},
 		{
 			"question": "Which band's hit song 'Under the Bridge' became iconic in the 90s?",
 			"answers": [
-				"Red Hot Chili Peppers",
+				"RHCP",
 				"Green Day",
 				"Radiohead"
 			],
@@ -41,17 +41,17 @@
 			"question": "Who was the lead singer of 'The Smashing Pumpkins'?",
 			"answers": [
 				"Billy Corgan",
-				"Eddie Vedder",
+				"E. Vedder",
 				"Thom Yorke"
 			],
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Which band's hit 'Zombie' gained massive popularity in the mid-90s?",
+			"question": "Kurt Cobain was in?",
 			"answers": [
-				"The Cranberries",
-				"Soundgarden",
-				"Alice in Chains"
+				"Nirvana",
+				"Oasis",
+				"Pearl Jam"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -83,11 +83,11 @@
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Which band's hit song 'Loser' gained popularity in 1994?",
+			"question": "Who sang 'Creep'?",
 			"answers": [
-				"Beck",
-				"The Offspring",
-				"Stone Temple Pilots"
+				"Radiohd",
+				"Nirvana",
+				"Oasis"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -137,11 +137,11 @@
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Which band's album 'Mellon Collie and the Infinite Sadness' was released in 1995?",
+			"question": "Who sang 'Basket Case'?",
 			"answers": [
-				"Smashing Pumpkins",
-				"Nirvana",
-				"Pearl Jam"
+				"GrnDay",
+				"Oasis",
+				"Blur"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -155,11 +155,11 @@
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Which band's hit song 'Creep' gained attention in the early 90s?",
+			"question": "Who sang 'Buddy Holly'?",
 			"answers": [
-				"Radiohead",
-				"The Smashing Pumpkins",
-				"Oasis"
+				"Weezer",
+				"Oasis",
+				"Blur"
 			],
 			"correctAnswerIndex": 0
 		},
@@ -173,20 +173,11 @@
 			"correctAnswerIndex": 0
 		},
 		{
-			"question": "Which band released the album 'Siamese Dream' in 1993?",
-			"answers": [
-				"The Smashing Pumpkins",
-				"Nirvana",
-				"Pearl Jam"
-			],
-			"correctAnswerIndex": 0
-		},
-		{
 			"question": "Who was the lead singer of 'Soundgarden'?",
 			"answers": [
-				"Chris Cornell",
-				"Eddie Vedder",
-				"Kurt Cobain"
+				"C. Cornell",
+				"E. Vedder",
+				"K. Cobain"
 			],
 			"correctAnswerIndex": 0
 		}
